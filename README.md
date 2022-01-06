@@ -4,4 +4,6 @@ Material didático para programadores que buscam aprender Angular
 
 ## Primeiros passos
 
-em construção...
+1• ProjetoTour-of-Heroes ministrado professor/youtuber 
+Paulo Eduardo Melo.
+Em construção...
